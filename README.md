@@ -1,2 +1,2 @@
-# Trabalho-Engenharia-de-Dados
+# Trabalho Engenharia de Dados
 Componentes: Fernanda Moysés, Larissa Nobrega e Lucas Liduíno.
